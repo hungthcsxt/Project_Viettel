@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bg.jpg</file>
+        <file>boss.jpg</file>
+        <file>boss2.jpg</file>
+        <file>boss3.jpg</file>
+        <file>item.jpg</file>
+        <file>player.jpg</file>
+        <file>stone.jpg</file>
+        <file>tuongdoc.jpg</file>
+        <file>tuongngang.jpg</file>
+    </qresource>
+</RCC>
